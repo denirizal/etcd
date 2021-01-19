@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/groupcache v0.0.0-20160516000752-02826c3e7903
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.3
 	github.com/google/btree v1.0.0
 	github.com/google/uuid v1.0.0
 	github.com/gorilla/websocket v0.0.0-20170926233335-4201258b820c // indirect
