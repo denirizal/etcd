@@ -21,7 +21,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.9.5
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/jonboulle/clockwork v0.1.0
+	github.com/jonboulle/clockwork v0.2.2
 	github.com/json-iterator/go v1.1.7
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
